@@ -1,2 +1,2 @@
 # Restapi
-The development of rest api using node js and mysql 
+The development of rest api using node.js(express) and mysql 
